@@ -1,0 +1,18 @@
+
+E
+java:S3740$"/Provide the parametrized type for this generic.(ŽŽ·¥
+p
+java:S3008"URename this field "MACHINE_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¨ážøÿÿÿÿ
+m
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(•ëÑ¥ùÿÿÿÿ
+h
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ŽËÚé
+[
+java:S1854*"@Remove this useless assignment to local variable "stateMachine".(ƒ¨¼¯þÿÿÿÿ
+L
+java:S1481*"1Remove this unused "stateMachine" local variable.(ƒ¨¼¯þÿÿÿÿ
+G
+java:S16024",Remove useless curly braces around statement(‚ÍÞØøÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(‰Ë¢ãþÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'com.alibaba.cola.statemachine.State'.(€éªâ

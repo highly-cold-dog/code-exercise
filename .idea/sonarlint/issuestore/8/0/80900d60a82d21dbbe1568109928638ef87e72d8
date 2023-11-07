@@ -1,0 +1,14 @@
+
+B
+java:S1602",Remove useless curly braces around statement(¥—ığ
+B
+java:S1602$",Remove useless curly braces around statement(¥—ığ
+r
+java:S3077."WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ôé×±úÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(çôğ
+t
+java:S21429"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ã¼øéşÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(Ö†à…ÿÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ó€şûøÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ÂÃåûÿÿÿÿ

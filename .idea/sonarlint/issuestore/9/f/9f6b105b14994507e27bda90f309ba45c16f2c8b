@@ -1,0 +1,20 @@
+
+V	java:S125 "<This block of commented-out lines of code should be removed.(™¢Œùÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(ÀÏ­§
+V	java:S125K"<This block of commented-out lines of code should be removed.(åÙ‚Ñşÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(™Şï­ıÿÿÿÿ
+G
+java:S1602Z",Remove useless curly braces around statement(‡Âúúúÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(“›Ê¹
+G
+java:S1602i",Remove useless curly braces around statement(©îëÍûÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(¾„Ğµùÿÿÿÿ
+u
+java:S2142‚"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+G
+java:S1602w",Remove useless curly braces around statement(é‰Ö—øÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(Ïù¸ş
+t
+java:S2142}"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+P
+java:S1141{"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ

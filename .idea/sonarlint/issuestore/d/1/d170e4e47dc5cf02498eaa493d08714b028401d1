@@ -1,0 +1,12 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "lists2".(¡Â©ß
+A
+java:S1481"+Remove this unused "lists2" local variable.(¡Â©ß
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢ëÒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÑÏƒıÿÿÿÿ
+t
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+t
+java:S2142H"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(…Ÿ¥’

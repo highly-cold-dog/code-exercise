@@ -1,0 +1,11 @@
+
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ûó–Æúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ûó–Æúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËëÃ‹
+a
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(ËëÃ‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËëÃ‹
+a
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(ËëÃ‹
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ĞÂÄÿÿÿÿÿ
